@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+}
+
+.header-banner{
+    background-size: fill;
+    background-color: #222222;
+    color: white;
+}
+
+#list-menu{
+    list-style-type: none;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+
+#list-footer{
+    list-style-type: none; 
+}
+
+.footer{
+    background-color: #222222;
+    color: white;
+}
+
+#imagen-footer{
+    height: 80px;
+    width: auto;
+}
