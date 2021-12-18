@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+}
+header{
+    width: 100%;
+    z-index: 2;
+}
+#top-banner{
+    background-color:#1cd1b0;
+    height: 38px;
+}
+#title-banner{
+    background-color: #00669F;
+    height: 101px;
+}
+#footer{
+    background-color:  #00669F;
+    
+}
+#footer p{
+    color: white;
+    align-self: center;
+    margin-left: 10px;
+    font-family: Roboto;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+}
